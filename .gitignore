@@ -3,3 +3,4 @@ notes-api-webserver.pem
 .env
 .prod.env
 notes-app-back-end.code-workspace
+src/api/uploads/file
